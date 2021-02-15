@@ -1,5 +1,5 @@
 Student
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huachangb>&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huachangb&theme=dark" />
 
 <!---
 huachangb/huachangb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
